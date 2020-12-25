@@ -7,7 +7,7 @@
                 "C:\\Users\\mattt\\Documents\\Arduino\\libraries\\**",
                 "C:\\Program Files (x86)\\Arduino\\libraries\\**",
                 "C:\\Users\\mattt\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\**",
-                "D:\\Documents\\GIT_Repository\\Arduino_Learning\\libraries"
+                "D:\\Documents\\GIT_Repository\\Arduino_Learning\\libraries",
                 "${workspaceFolder}/**"
             ],
             "defines": [
